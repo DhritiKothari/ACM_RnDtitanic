@@ -1,6 +1,3 @@
-<img width="869" alt="Screenshot 2025-03-28 at 10 31 09 PM" src="https://github.com/user-attachments/assets/25a6c280-30fe-40fd-9007-c7e9743bbdda" /># ACM_RnDtitanic
-1. Download and work on the famous Titanic dataset CSV: a. LoadingData b. Data inspection c. DataSelection d. Filtering e. handling missing data
-
 <img width="716" alt="Screenshot 2025-03-28 at 10 23 49 PM" src="https://github.com/user-attachments/assets/c29fa3c9-ebdf-4659-8421-d0830ac95a87" />
 <img width="820" alt="Screenshot 2025-03-28 at 10 25 46 PM" src="https://github.com/user-attachments/assets/b59b4a93-cc1b-4409-9b65-5bf54e70394b" />
 <img width="653" alt="Screenshot 2025-03-28 at 10 28 11 PM" src="https://github.com/user-attachments/assets/7a6904c5-b818-4ed1-8dc8-16d0ad5c4133" />
